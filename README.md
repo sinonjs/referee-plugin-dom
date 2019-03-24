@@ -1,5 +1,8 @@
 # `referee-plugin-dom`
 
+[![CircleCI](https://circleci.com/gh/sinonjs/referee-plugin-dom.svg?style=svg)](https://circleci.com/gh/sinonjs/referee-plugin-dom)
+[![codecov](https://codecov.io/gh/sinonjs/referee-plugin-dom/branch/master/graph/badge.svg)](https://codecov.io/gh/sinonjs/referee-plugin-dom)
+
 This is the early stages of a new plugin for `@sinonjs/referee`
 
 ## Usage
