@@ -35,7 +35,7 @@
   ],
   "homepage": "https://github.com/sinonjs/referee-plugin-dom#readme",
   "devDependencies": {
-    "@sinonjs/referee": "^5.0.0",
+    "@sinonjs/referee": "^5.0.1",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-config-sinon": "^3.0.1",
